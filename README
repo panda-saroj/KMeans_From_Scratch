@@ -1,0 +1,4 @@
+This code contains KMeans implementation from Scratch using Python class.
+The KMeans class provides one accuracy function, which computes the accuracy of the clusters from the ground truth available.
+This code also performs two tests using the datasets IRIS and Breast Cancer.
+Please free to contribute or contact me, if you need any information.
