@@ -50,7 +50,7 @@ class KMeans:
     def lables(self):
         print(self.cluster_class_lable)
         
-        
+# Assign the data from X to the clusters        
     def fit(self, X):
         
         # Setup a blank centroid dictionary
